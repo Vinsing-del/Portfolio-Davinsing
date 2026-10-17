@@ -3,7 +3,7 @@
 const works = [
   { cat: 'Even 2Sen', title: '', n: [4] },
   { cat: 'Photo Shoot', title: '', n: [5, 6, 7] },
-  { cat: 'Album Design', title: '', n: [8, 9, 10, 11, 12, 13, 14, 15] },
+  { cat: 'Album Design & Single Poster', title: '', n: [8, 9, 10, 11, 12, 13, 14, 15] },
   { cat: 'Color Grading', title: '', n: [17, 18] }
 ].flatMap(group =>
   group.n.map((n, i) => ({
